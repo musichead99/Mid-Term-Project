@@ -1,0 +1,11 @@
+#header{
+    position : absolute;
+    font-weight: bold;
+    top : 12px;
+    right : 18px;
+}
+
+li {
+    list-style: decimal;
+    
+}
