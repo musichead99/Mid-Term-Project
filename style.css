@@ -5,11 +5,15 @@
     right : 18px;
 }
 
-li {
+.title {
     list-style: decimal;
     
 }
 
 img {
     width : 300px;
+}
+
+#약력 {
+    margin-top: 5px;
 }
