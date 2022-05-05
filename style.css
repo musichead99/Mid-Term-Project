@@ -7,13 +7,17 @@
 
 .title {
     list-style: decimal;
-    
 }
 
 img {
+    margin-top: 20px;
     width : 300px;
 }
 
 #약력 {
     margin-top: 5px;
+}
+
+#상세 {
+    margin-top : 5px;
 }
