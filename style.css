@@ -10,14 +10,20 @@
 }
 
 img {
-    margin-top: 20px;
+    margin : 10px;
     width : 300px;
+    float : left;
 }
 
 #약력 {
+    clear : both;
     margin-top: 5px;
 }
 
 #상세 {
     margin-top : 5px;
+}
+
+.내용 {
+    margin-top : 20px;
 }
